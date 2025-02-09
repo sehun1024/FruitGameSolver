@@ -13,4 +13,4 @@ Or whatever the C++ compiler you have.
 
 The sample input is in the example.txt
 You can run the sample with the command
->    cat example.exe | ./FruitGameSolver
+>    cat example.txt | ./FruitGameSolver
